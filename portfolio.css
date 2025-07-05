@@ -105,3 +105,22 @@
       transform: scale(0.8);
       transition: transform 1s ease;
      }
+@media (max-width: 768px) {
+      #amazon{
+       
+      width: 100px !important;
+      height: 50px !important;
+      }}
+          @media (max-width: 768px) {
+      #goibibo{
+       
+      width: 100px !important;
+      height: 50px !important;
+      }}
+          @media (max-width: 768px) {
+      #w3{
+       
+      width: 100px !important;
+      height: 50px !important;
+      }}
+      
